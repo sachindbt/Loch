@@ -1,0 +1,368 @@
+.bgblue_dv {
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  background-image: url(./images/bluela\ 2.svg);
+  /* background: url(http://localhost:3003/static/media/bluela%202.43842fd….svg); */
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding-left: 80px;
+  padding-bottom: 40px;
+}
+.mid_dv {
+  display: flex;
+  padding-top: 60px;
+}
+.content_wrapper {
+  width: 50%;
+  padding-right: 30px;
+}
+.content_wrapper h2 {
+  font-size: 31px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 120%;
+  margin: 0px;
+  padding: 16px 0px;
+  color: #fff;
+}
+.content_wrapper p {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 120%;
+  margin: 0px;
+  color: #fff;
+}
+.content_wrapper span {
+  color: #fff;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.bgwhite_dv {
+  width: 40%;
+  position: relative;
+  background-color: #fff;
+}
+.main_dv {
+  display: flex;
+  background: radial-gradient(
+    92.19% 89.74% at 32.27% 91.27%,
+    rgba(31, 169, 17, 0.81) 17.21%,
+    #2f15d0 64.58%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  max-width: 1324px;
+  margin: auto;
+}
+form.form_dv button {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 120%;
+  color: #fff;
+  padding: 18px 28px;
+  min-width: 340px;
+  margin-top: 18px;
+}
+form.form_dv p {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 120%;
+  padding: 18px 0px;
+}
+form.form_dv {
+  position: absolute;
+  width: 80%;
+  margin: auto;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+form.form_dv input {
+  width: 100%;
+}
+form.form_dv
+  .MuiFormControl-root.MuiFormControl-marginNormal.MuiFormControl-fullWidth.MuiTextField-root.css-17vbkzs-MuiFormControl-root-MuiTextField-root {
+  width: 340px;
+}
+form.form_dv h2 {
+  color: var(--grey-300, #b0b1b3);
+  font-size: 39px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 120%;
+  padding-bottom: 32px;
+  margin: 0px;
+}
+.content_wrapper.right_s {
+  text-align: right;
+  padding-right: 80px;
+}
+.content_wrapper span svg {
+  width: 32px;
+  height: 32px;
+}
+.img_box img {
+  width: 100%;
+  margin-left: -67px;
+  margin-top: -51px;
+}
+.img_box {
+  width: 50%;
+}
+.Testimonials_wrapper h2 {
+  color: var(--Background---F2F2F2, #f2f2f2);
+  text-align: right;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 120%;
+  padding-right: 80px;
+  padding-bottom: 20px;
+}
+.upper_dv {
+  display: flex;
+}
+.slider_div {
+  width: 50%;
+}
+.slider_main {
+  width: 92%;
+  margin-left: auto;
+  height: 250px;
+}
+.slick-slide img {
+  width: 100%;
+  height: 100%;
+}
+.top_c {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.top_c span {
+  font-size: 28px;
+  line-height: 28px;
+  width: 28px;
+  height: 28px;
+  color: #000;
+  font-weight: 800;
+}
+.top_c button {
+  text-align: right;
+  font-size: 9.1px;
+  font-style: normal;
+  font-weight: 600;
+  color: #000;
+  line-height: 120%;
+}
+.slide_box h2 {
+  color: var(--grey-900, #19191a);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 120%;
+  padding-bottom: 20px;
+}
+.slick-list {
+  background-color: none !important;
+  width: 100%;
+  margin-right: 10%;
+}
+.slide_box {
+  padding: 14px;
+  width: 80%;
+  border-radius: 8.4px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.20) 27.5%, rgba(22, 93, 255, 0.16) 157.71%), #FFF;
+  box-shadow: 0px 0.7px 0.7px 0px rgba(0, 0, 0, 0.04), 0px 2.8px 7px 0px rgba(0, 0, 0, 0.04);
+}
+.top_c .checkbox-icon svg {
+  border-radius: 4.2px;
+  height: 14px;
+  width: 14px;
+  color: #0071e3;
+}
+.slide_box
+  .MuiFormControl-root.MuiFormControl-fullWidth.css-q8hpuo-MuiFormControl-root {
+  width: 200px;
+}
+.slide_box
+  .MuiInputBase-root.MuiOutlinedInput-root.MuiInputBase-colorPrimary.MuiInputBase-formControl.css-1yk1gt9-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root {
+  width: 140px;
+  height: 60px;
+}
+.slide_box
+  .css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input {
+  padding: 0px !important;
+}
+.slick-initialized .slick-slide {
+  display: block;
+}
+.slide_box {
+  height: 220px;
+}
+.slide_box p {
+  color: var(--grey-900, #19191a);
+  font-size: 11.2px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 120%;
+}
+.slick-prev,
+.slick-next {
+  display: none !important;
+}
+.Testimonials_wrapper
+  .MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation3.css-3su884-MuiPaper-root {
+  border-radius: 12px;
+  background: var(--White, #fff);
+  box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.04),
+    0px 4px 10px 0px rgba(0, 0, 0, 0.04);
+  margin-right: 10px;
+}
+.head_content {
+  display: flex;
+  gap: 15px;
+  padding-bottom: 20px;
+}
+.head_content h3 {
+  color: var(--grey-900, #19191a);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 120%;
+}
+.head_content h6 {
+  color: var(--grey-400, #96979a);
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 120%;
+}
+.slider_testimonial_dv {
+  display: flex;
+  align-items: center;
+  padding-top: 40px;
+}
+.VECTOR_dv {
+  width: 10%;
+}
+.Testimonial_dv {
+  width: 90%;
+}
+.Testimonial_dv p {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 120%;
+}
+@media screen and (max-width: 993px) {
+  .main_dv {
+    flex-direction: column-reverse;
+  }
+  .bgwhite_dv {
+    width: 100%;
+    height: 50vh;
+  }
+
+  .bgblue_dv {
+    width: 100%;
+    padding-left: 0px;
+    padding-bottom: 40px;
+  }
+  .upper_dv {
+    flex-direction: column;
+    width: 100%;
+  }
+  .content_wrapper {
+    width: 90%;
+    margin: auto;
+    padding: 0px;
+  }
+  .slider_div {
+    width: 100%;
+  }
+  form.form_dv {
+    width: 90%;
+  }
+  form.form_dv
+    .MuiFormControl-root.MuiFormControl-marginNormal.MuiFormControl-fullWidth.MuiTextField-root.css-17vbkzs-MuiFormControl-root-MuiTextField-root {
+    width: 100%;
+  }
+  form.form_dv button {
+    min-width: 100%;
+  }
+  form.form_dv h2 {
+    font-size: 32px;
+    line-height: 100%;
+    padding-bottom: 10px;
+  }
+  .content_wrapper h2 {
+    font-size: 28px;
+    line-height: 110%;
+  }
+  form.form_dv p {
+    padding: 12px 0px;
+  }
+  .mid_dv {
+    padding-top: 20px;
+    flex-direction: column;
+    width: 100%;
+  }
+  .img_box {
+    width: 100%;
+  }
+  .img_box img {
+    margin-left: 0;
+    margin-top: 0;
+  }
+  .slider_testimonial_dv {
+    flex-direction: column;
+    gap: 10px;
+  }
+  .head_content {
+    flex-direction: column;
+    gap: 10px;
+    padding-bottom: 20px;
+  }
+  .content_wrapper.right_s {
+    padding-right: 10px;
+  }
+  .slider_main {
+    width: 82%;
+    height: 250px;
+    margin: auto;
+    margin-top: 20px;
+  }
+  .slide_box {
+    width: 88%;
+  }
+  .slider_testimonial_dv {
+    gap: 20px;
+    justify-content: center;
+  }
+  .Testimonials_wrapper h2 {
+    padding-bottom: 0px;
+    padding-top: 20px;
+}
+}
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+  .slide_box {
+    width: 95%;
+  }
+}
+@media only screen and (min-width: 1024px) and (max-width: 1279px) {
+  form.form_dv
+    .MuiFormControl-root.MuiFormControl-marginNormal.MuiFormControl-fullWidth.MuiTextField-root.css-17vbkzs-MuiFormControl-root-MuiTextField-root {
+    width: 100%;
+  }
+  form.form_dv {
+    width: 90%;
+  }
+  form.form_dv button {
+    min-width: 100%;
+  }
+}
